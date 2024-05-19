@@ -1,4 +1,5 @@
 replicate
 streamlit==1.26
 requests
-streamlit-image-select
+openpyxl
+minio
